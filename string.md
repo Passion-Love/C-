@@ -26,4 +26,4 @@ int main(){
 }
 ```
 
-![] (./image/sring用法.jpg)
+![] (./image/string用法.jpg)
